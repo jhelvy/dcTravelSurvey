@@ -11,8 +11,7 @@ tripsYes <- distinct(survey_yes, uniqueTripID, .keep_all = TRUE)
 tripsNo <- distinct(survey_no, uniqueTripID, .keep_all = TRUE)
 
 # Create save folders
-saveRoot <- '/Users/jhelvy/Desktop/survey'
-if (!dir.exists(saveRoot)) { dir.create(saveRoot) }
+saveRoot <- here::here("images")
 
 i <- 1
 lang <- 'en'
