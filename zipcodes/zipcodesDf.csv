@@ -1,0 +1,798 @@
+zipcode,major_city,county,state,population,population_density,land_area_in_sqmi,housing_units,occupied_housing_units,median_home_value,median_household_income
+20001,Washington,District of Columbia,DC,38551,17689,2.18,18751,16500,495300,78848
+20002,Washington,District of Columbia,DC,52370,9961,5.26,26166,22973,428500,65000
+20003,Washington,District of Columbia,DC,26454,11799,2.24,13216,11724,616000,107966
+20004,Washington,District of Columbia,DC,1622,4659,0.35,1543,1127,470700,126765
+20005,Washington,District of Columbia,DC,12775,29979,0.43,9218,8316,493900,81864
+20006,Washington,District of Columbia,DC,3227,9518,0.34,940,874,231700,30208
+20007,Washington,District of Columbia,DC,26866,8935,3.01,13849,12780,820700,107511
+20008,Washington,District of Columbia,DC,27525,9064,3.04,17244,15804,679400,100953
+20009,Washington,District of Columbia,DC,47992,36495,1.32,29093,26825,539400,88684
+20010,Washington,District of Columbia,DC,30138,27801,1.08,13861,12639,474500,65287
+20011,Washington,District of Columbia,DC,58536,12002,4.88,25082,23035,376900,54488
+20012,Washington,District of Columbia,DC,13414,5931,2.26,6058,5708,542600,78356
+20013,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20015,Washington,District of Columbia,DC,15332,4442,3.45,6756,6447,869100,159016
+20016,Washington,District of Columbia,DC,32519,7324,4.44,14842,13743,817000,118141
+20017,Washington,District of Columbia,DC,17735,8026,2.21,7729,7278,344900,56980
+20018,Washington,District of Columbia,DC,16894,5602,3.02,7652,7005,355500,52317
+20019,Washington,District of Columbia,DC,54358,8810,6.17,25109,22076,223100,34832
+20020,Washington,District of Columbia,DC,49864,10809,4.61,22753,20159,268200,34685
+20022,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20023,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20024,Washington,District of Columbia,DC,11510,4403,2.61,7732,6790,317200,72870
+20026,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20027,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20029,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20030,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20032,Washington,District of Columbia,DC,35653,6788,5.25,15681,13658,226100,31184
+20033,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20035,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20036,Washington,District of Columbia,DC,5435,16327,0.33,4269,3876,388600,78935
+20037,Washington,District of Columbia,DC,14642,22724,0.64,8154,6667,562300,76948
+20038,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20039,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20040,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20041,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20042,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20043,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20044,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20045,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20046,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20047,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20049,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20050,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20051,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20052,Washington,District of Columbia,DC,470,172372,0,6,6,NA,NA
+20053,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20055,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20056,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20057,Washington,District of Columbia,DC,3888,23193,0.17,0,0,NA,NA
+20058,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20059,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20060,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20061,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20062,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20063,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20064,Washington,District of Columbia,DC,1890,9672,0.2,1,1,NA,NA
+20065,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20066,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20067,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20068,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20069,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20070,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20071,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20073,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20074,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20075,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20076,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20077,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20078,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20080,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20081,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20082,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20088,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20090,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20091,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20097,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20098,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20201,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20202,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20203,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20204,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20206,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20207,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20208,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20210,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20211,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20212,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20213,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20214,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20215,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20216,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20217,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20218,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20219,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20220,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20221,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20222,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20223,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20224,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20226,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20227,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20228,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20229,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20230,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20232,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20233,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20235,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20237,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20238,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20239,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20240,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20241,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20242,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20244,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20245,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20250,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20251,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20254,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20260,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20261,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20262,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20265,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20266,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20268,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20270,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20277,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20289,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20299,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20301,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20303,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20306,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20307,Washington,District of Columbia,DC,353,2669,0.13,0,0,NA,NA
+20310,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20314,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20317,Washington,District of Columbia,DC,903,1982,0.46,1014,696,NA,21591
+20318,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20319,Washington,District of Columbia,DC,84,601,0.14,0,0,NA,NA
+20330,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20340,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20350,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20355,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20370,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20372,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20373,Naval Anacost Annex,District of Columbia,DC,131,362,0.36,0,0,NA,NA
+20374,Washington Navy Yard,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20375,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20376,Washington Navy Yard,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20380,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20388,Washington Navy Yard,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20389,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20390,Washington,District of Columbia,DC,584,138322,0,0,0,NA,NA
+20391,Washington Navy Yard,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20392,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20393,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20394,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20395,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20398,Washington Navy Yard,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20401,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20402,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20403,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20404,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20405,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20406,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20407,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20408,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20409,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20410,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20411,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20412,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20413,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20414,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20415,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20416,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20418,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20419,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20420,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20421,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20422,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20423,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20424,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20425,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20426,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20427,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20428,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20429,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20431,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20433,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20434,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20435,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20436,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20437,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20439,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20440,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20441,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20442,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20444,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20447,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20451,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20453,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20456,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20460,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20463,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20468,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20469,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20470,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20472,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20500,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20501,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20502,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20503,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20504,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20505,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20506,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20507,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20508,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20509,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20510,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20511,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20515,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20520,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20521,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20522,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20523,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20524,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20525,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20526,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20527,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20528,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20529,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20530,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20531,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20532,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20533,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20534,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20535,Washington,District of Columbia,DC,8,1604,0,0,0,NA,NA
+20536,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20537,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20538,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20539,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20540,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20541,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20542,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20543,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20544,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20546,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20547,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20548,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20549,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20551,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20552,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20553,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20554,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20555,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20557,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20558,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20559,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20560,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20565,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20566,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20570,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20571,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20572,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20573,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20575,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20576,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20577,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20578,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20579,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20580,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20581,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20585,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20586,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20590,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20591,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20593,Washington,District of Columbia,DC,0,NA,0,0,0,NA,NA
+20594,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20597,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20599,Washington,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+56901,Parcel Return Service,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+56902,Parcel Return Service,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+56904,Parcel Return Service,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+56915,Parcel Return Service,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+56920,Parcel Return Service,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+56933,Parcel Return Service,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+56944,Parcel Return Service,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+56945,Parcel Return Service,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+56950,Parcel Return Service,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+56965,Parcel Return Service,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+56972,Parcel Return Service,District of Columbia,DC,NA,NA,NA,NA,NA,NA,NA
+20610,Barstow,Calvert County,MD,NA,NA,NA,NA,NA,NA,NA
+20615,Broomes Island,Calvert County,MD,405,557,0.73,204,156,361100,114375
+20629,Dowell,Calvert County,MD,535,1241,0.43,341,246,444900,143523
+20639,Huntingtown,Calvert County,MD,14227,340,41.86,4832,4584,432200,123906
+20657,Lusby,Calvert County,MD,20483,681,30.08,7765,6957,266700,90399
+20676,Port Republic,Calvert County,MD,3871,234,16.55,1545,1336,384700,91987
+20678,Prince Frederick,Calvert County,MD,11045,258,42.75,4121,3854,347900,80087
+20685,Saint Leonard,Calvert County,MD,6471,291,22.26,2499,2235,335900,109750
+20688,Solomons,Calvert County,MD,1828,1277,1.43,1188,970,398100,61458
+20689,Sunderland,Calvert County,MD,1694,218,7.78,579,558,400900,127375
+20714,North Beach,Calvert County,MD,4345,1864,2.33,2179,1848,273800,68171
+20732,Chesapeake Beach,Calvert County,MD,9919,974,10.19,3957,3575,344300,97649
+20736,Owings,Calvert County,MD,8904,349,25.54,3037,2940,436800,114539
+20754,Dunkirk,Calvert County,MD,6951,412,16.87,2420,2349,449400,109211
+20601,Waldorf,Charles County,MD,24156,541,44.65,8722,8336,287800,93020
+20602,Waldorf,Charles County,MD,24955,1804,13.83,9736,8960,246400,79611
+20603,Waldorf,Charles County,MD,28967,1696,17.08,10317,9766,300700,102605
+20604,Waldorf,Charles County,MD,NA,NA,NA,NA,NA,NA,NA
+20611,Bel Alton,Charles County,MD,1078,153,7.04,413,387,302700,64773
+20612,Benedict,Charles County,MD,261,1118,0.23,142,120,406000,42143
+20616,Bryans Road,Charles County,MD,5857,597,9.81,2203,2029,244600,91645
+20617,Bryantown,Charles County,MD,781,119,6.54,301,291,385100,96042
+20622,Charlotte Hall,Charles County,MD,4900,131,37.38,1485,1426,352800,98750
+20625,Cobb Island,Charles County,MD,1062,2209,0.48,609,451,240200,62440
+20632,Faulkner,Charles County,MD,347,47,7.35,131,125,239200,50987
+20637,Hughesville,Charles County,MD,5423,175,30.95,1882,1799,378500,128750
+20640,Indian Head,Charles County,MD,10438,250,41.69,4089,3683,251700,68431
+20643,Ironsides,Charles County,MD,NA,NA,NA,NA,NA,NA,NA
+20645,Issue,Charles County,MD,857,390,2.2,386,329,423200,96000
+20646,La Plata,Charles County,MD,18890,229,82.46,7015,6662,350300,104971
+20658,Marbury,Charles County,MD,854,284,3.01,377,335,316500,82000
+20661,Mount Victoria,Charles County,MD,NA,NA,NA,NA,NA,NA,NA
+20662,Nanjemoy,Charles County,MD,2934,51,57.11,1229,1051,299100,85069
+20664,Newburg,Charles County,MD,2987,73,41.12,1384,1161,288000,64276
+20675,Pomfret,Charles County,MD,1671,277,6.04,613,592,342900,89934
+20677,Port Tobacco,Charles County,MD,2322,151,15.41,878,816,432700,130857
+20682,Rock Point,Charles County,MD,NA,NA,NA,NA,NA,NA,NA
+20693,Welcome,Charles County,MD,1088,54,20.19,424,383,364100,110924
+20695,White Plains,Charles County,MD,6794,537,12.65,2574,2460,320800,100758
+21701,Frederick,Frederick County,MD,35293,907,38.91,15847,14608,276200,72646
+21702,Frederick,Frederick County,MD,38847,961,40.41,15617,14641,267400,69948
+21703,Frederick,Frederick County,MD,32854,988,33.26,12772,11954,250900,76531
+21704,Frederick,Frederick County,MD,13321,509,26.17,4439,4224,397900,116869
+21705,Frederick,Frederick County,MD,8,338,0.02,0,0,NA,NA
+21709,Frederick,Frederick County,MD,NA,NA,NA,NA,NA,NA,NA
+21710,Adamstown,Frederick County,MD,4515,177,25.56,1710,1620,405500,102167
+21714,Braddock Heights,Frederick County,MD,99,3425,0.03,61,43,NA,NA
+21716,Brunswick,Frederick County,MD,4885,1512,3.23,2054,1888,175900,56708
+21717,Buckeystown,Frederick County,MD,54,147,0.37,25,22,NA,NA
+21718,Burkittsville,Frederick County,MD,151,333,0.45,74,69,300000,71429
+21727,Emmitsburg,Frederick County,MD,5850,183,32.01,1811,1676,243200,57455
+21754,Ijamsville,Frederick County,MD,6323,267,23.72,2198,2126,444400,136289
+21755,Jefferson,Frederick County,MD,5591,162,34.44,2103,2023,351500,102972
+21757,Keymar,Frederick County,MD,3036,81,37.65,1170,1103,298500,72572
+21758,Knoxville,Frederick County,MD,4921,152,32.43,1882,1749,258700,88274
+21759,Ladiesburg,Frederick County,MD,NA,NA,NA,NA,NA,NA,NA
+21762,Libertytown,Frederick County,MD,249,677,0.37,100,89,327600,94375
+21769,Middletown,Frederick County,MD,11236,276,40.78,4149,3979,357400,106646
+21770,Monrovia,Frederick County,MD,5164,470,11,1780,1739,392700,105325
+21771,Mount Airy,Frederick County,MD,29563,348,85.06,10200,9845,392400,107775
+21773,Myersville,Frederick County,MD,5460,141,38.72,2080,1948,354700,90769
+21774,New Market,Frederick County,MD,11662,810,14.4,4073,3918,345000,113086
+21775,New Midway,Frederick County,MD,NA,NA,NA,NA,NA,NA,NA
+21777,Point Of Rocks,Frederick County,MD,1470,699,2.1,528,492,273400,106667
+21778,Rocky Ridge,Frederick County,MD,1094,63,17.45,438,409,265200,78158
+21780,Sabillasville,Frederick County,MD,1625,72,22.49,661,580,223700,64545
+21788,Thurmont,Frederick County,MD,11622,174,66.76,4718,4427,256900,74471
+21790,Tuscarora,Frederick County,MD,100,26,3.92,44,43,NA,28889
+21792,Unionville,Frederick County,MD,NA,NA,NA,NA,NA,NA,NA
+21793,Walkersville,Frederick County,MD,9775,479,20.4,3591,3404,288100,81970
+21798,Woodsboro,Frederick County,MD,2345,142,16.54,896,861,322600,80000
+22602,Winchester,Frederick County,VA,28443,258,110.25,11156,10299,238500,72388
+22603,Winchester,Frederick County,VA,13910,142,98.02,5671,5272,214600,56944
+22622,Brucetown,Frederick County,VA,NA,NA,NA,NA,NA,NA,NA
+22624,Clear Brook,Frederick County,VA,2565,133,19.29,999,946,274300,61771
+22625,Cross Junction,Frederick County,VA,3641,83,43.82,1534,1306,196500,74458
+22637,Gore,Frederick County,VA,1970,44,44.54,881,746,217000,69607
+22645,Middletown,Frederick County,VA,3880,109,35.67,1675,1492,209500,50202
+22649,Middletown,Frederick County,VA,NA,NA,NA,NA,NA,NA,NA
+22654,Star Tannery,Frederick County,VA,640,10,61.85,374,271,339600,94160
+22655,Stephens City,Frederick County,VA,19328,549,35.19,7559,7070,224400,76113
+22656,Stephenson,Frederick County,VA,2381,284,8.39,947,893,246200,51923
+22663,White Post,Frederick County,VA,1536,69,22.12,578,518,284100,59509
+20810,Bethesda,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20811,Bethesda,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20812,Glen Echo,Montgomery County,MD,255,1330,0.19,100,96,758700,128750
+20813,Bethesda,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20814,Bethesda,Montgomery County,MD,27642,5438,5.08,14103,13014,647800,114577
+20815,Chevy Chase,Montgomery County,MD,29082,5355,5.43,13850,12851,892600,131994
+20816,Bethesda,Montgomery County,MD,16208,4677,3.47,6666,6339,892600,168693
+20817,Bethesda,Montgomery County,MD,36240,2613,13.87,14020,13371,807100,170293
+20818,Cabin John,Montgomery County,MD,1962,1899,1.03,789,766,883300,192891
+20824,Bethesda,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20825,Chevy Chase,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20827,Bethesda,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20830,Olney,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20832,Olney,Montgomery County,MD,24965,2480,10.07,8863,8661,469100,119743
+20833,Brookeville,Montgomery County,MD,7735,402,19.24,2545,2477,592600,137411
+20837,Poolesville,Montgomery County,MD,5789,137,42.38,2059,1965,468200,122663
+20838,Barnesville,Montgomery County,MD,259,96,2.7,109,104,625000,132344
+20839,Beallsville,Montgomery County,MD,214,44,4.9,81,76,450000,54917
+20841,Boyds,Montgomery County,MD,10460,403,25.98,2908,2842,582900,149022
+20842,Dickerson,Montgomery County,MD,1824,35,52.47,781,705,470900,78608
+20847,Rockville,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20848,Rockville,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20849,Rockville,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20850,Rockville,Montgomery County,MD,46340,3286,14.1,19085,18088,536700,107459
+20851,Rockville,Montgomery County,MD,14191,5979,2.37,5042,4838,332300,82201
+20852,Rockville,Montgomery County,MD,40365,4850,8.32,20062,18558,465000,97600
+20853,Rockville,Montgomery County,MD,29673,3293,9.01,10035,9740,430200,100435
+20854,Potomac,Montgomery County,MD,49611,1470,33.75,17262,16753,883500,192648
+20855,Derwood,Montgomery County,MD,14295,1090,13.11,5018,4889,453900,120603
+20857,Rockville,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20859,Potomac,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20860,Sandy Spring,Montgomery County,MD,2396,630,3.81,849,793,812000,109922
+20861,Ashton,Montgomery County,MD,1875,488,3.84,668,641,650200,161369
+20862,Brinklow,Montgomery County,MD,343,293,1.17,124,118,634400,148875
+20866,Burtonsville,Montgomery County,MD,13344,1888,7.07,4652,4466,317300,93828
+20868,Spencerville,Montgomery County,MD,790,394,2.01,250,246,739600,130347
+20871,Clarksburg,Montgomery County,MD,13130,640,20.53,4295,4089,444500,126685
+20872,Damascus,Montgomery County,MD,13104,628,20.86,4575,4403,375100,103125
+20874,Germantown,Montgomery County,MD,57367,2704,21.22,22256,21291,288400,84560
+20875,Germantown,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20876,Germantown,Montgomery County,MD,25496,2187,11.66,8738,8401,350000,90702
+20877,Gaithersburg,Montgomery County,MD,34321,5940,5.78,12249,11498,318900,64976
+20878,Gaithersburg,Montgomery County,MD,62446,2860,21.83,23155,22268,525300,116347
+20879,Gaithersburg,Montgomery County,MD,24360,3178,7.67,8371,8016,286200,89182
+20880,Washington Grove,Montgomery County,MD,450,1895,0.24,204,194,448300,116429
+20882,Gaithersburg,Montgomery County,MD,14063,364,38.6,4654,4534,540600,141648
+20883,Gaithersburg,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20884,Gaithersburg,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20885,Gaithersburg,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20886,Montgomery Village,Montgomery County,MD,33282,7072,4.71,12759,12110,272800,77136
+20889,Bethesda,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20891,Kensington,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20892,Bethesda,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20894,Bethesda,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20895,Kensington,Montgomery County,MD,19054,4694,4.06,7475,7165,554500,122896
+20896,Garrett Park,Montgomery County,MD,906,3661,0.25,352,335,690500,128750
+20897,Suburb Maryland Fac,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20898,Gaithersburg,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20899,Gaithersburg,Montgomery County,MD,142,1914,0.07,130,126,NA,19375
+20901,Silver Spring,Montgomery County,MD,34832,6468,5.38,12912,12367,396400,93023
+20902,Silver Spring,Montgomery County,MD,48841,6443,7.58,17073,16271,355500,76646
+20903,Silver Spring,Montgomery County,MD,23625,6554,3.6,7318,6995,326500,56903
+20904,Silver Spring,Montgomery County,MD,54612,3995,13.67,21452,20461,375200,70628
+20905,Silver Spring,Montgomery County,MD,18044,1402,12.87,5977,5810,475900,116806
+20906,Silver Spring,Montgomery County,MD,64696,5343,12.11,25715,24081,311700,72354
+20907,Silver Spring,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20908,Silver Spring,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20910,Silver Spring,Montgomery County,MD,37445,8221,4.55,19047,17582,505500,78738
+20911,Silver Spring,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20912,Takoma Park,Montgomery County,MD,24807,9307,2.67,10257,9508,432400,62204
+20913,Takoma Park,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20914,Silver Spring,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20915,Silver Spring,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20916,Silver Spring,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20918,Silver Spring,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20993,Silver Spring,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+20997,Silver Spring,Montgomery County,MD,NA,NA,NA,NA,NA,NA,NA
+24060,Blacksburg,Montgomery County,VA,53311,402,132.62,20255,18961,256300,39477
+24061,Blacksburg,Montgomery County,VA,NA,NA,NA,NA,NA,NA,NA
+24062,Blacksburg,Montgomery County,VA,NA,NA,NA,NA,NA,NA,NA
+24063,Blacksburg,Montgomery County,VA,NA,NA,NA,NA,NA,NA,NA
+24068,Christiansburg,Montgomery County,VA,NA,NA,NA,NA,NA,NA,NA
+24073,Christiansburg,Montgomery County,VA,29793,336,88.74,13314,12349,176700,51055
+24087,Elliston,Montgomery County,VA,3914,85,45.96,1707,1556,102600,43142
+24138,Pilot,Montgomery County,VA,1613,60,27.06,699,640,151300,64125
+24149,Riner,Montgomery County,VA,3339,63,53.13,1516,1334,187500,70097
+24162,Shawsville,Montgomery County,VA,2421,52,46.69,1123,961,146900,43533
+20607,Accokeek,Prince George's County,MD,9802,467,20.99,3504,3317,348900,123851
+20608,Aquasco,Prince George's County,MD,919,52,17.6,426,346,337800,63274
+20613,Brandywine,Prince George's County,MD,11860,157,75.61,4424,4164,329000,106571
+20623,Cheltenham,Prince George's County,MD,2744,1425,1.93,892,851,302900,139960
+20697,Southern Md Facility,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20703,Lanham,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20704,Beltsville,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20705,Beltsville,Prince George's County,MD,26188,1657,15.8,9281,8700,272900,76486
+20706,Lanham,Prince George's County,MD,38692,3735,10.36,13065,12235,261700,69879
+20707,Laurel,Prince George's County,MD,31538,2827,11.16,13576,12643,285800,76549
+20708,Laurel,Prince George's County,MD,25546,1825,13.99,10733,9933,308100,60754
+20709,Laurel,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20710,Bladensburg,Prince George's County,MD,9313,8472,1.1,3882,3595,207100,42962
+20712,Mount Rainier,Prince George's County,MD,9031,12357,0.73,3927,3656,277300,44104
+20715,Bowie,Prince George's County,MD,26382,1815,14.53,9357,9071,299300,107361
+20716,Bowie,Prince George's County,MD,20787,1802,11.54,8469,8087,283000,96409
+20717,Bowie,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20718,Bowie,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20719,Bowie,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20720,Bowie,Prince George's County,MD,21031,1882,11.17,7229,6932,368800,130890
+20721,Bowie,Prince George's County,MD,27016,1618,16.69,9595,9187,379600,119851
+20722,Brentwood,Prince George's County,MD,5711,3882,1.47,1945,1753,203900,56133
+20725,Laurel,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20726,Laurel,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20731,Capitol Heights,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20735,Clinton,Prince George's County,MD,35421,1366,25.93,12617,11986,289000,100651
+20737,Riverdale,Prince George's County,MD,20684,4995,4.14,6227,5758,227900,59427
+20738,Riverdale,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20740,College Park,Prince George's County,MD,28780,3598,8,11011,9332,267800,61952
+20741,College Park,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20742,College Park,Prince George's County,MD,7808,10539,0.74,1,1,NA,NA
+20743,Capitol Heights,Prince George's County,MD,38621,3971,9.73,15511,13895,202000,57973
+20744,Fort Washington,Prince George's County,MD,50722,1926,26.34,19468,18037,299300,90248
+20745,Oxon Hill,Prince George's County,MD,28451,4401,6.46,12165,11025,221600,60629
+20746,Suitland,Prince George's County,MD,28838,3660,7.88,12548,11538,217100,62449
+20747,District Heights,Prince George's County,MD,40054,5247,7.63,16486,15324,214400,61188
+20748,Temple Hills,Prince George's County,MD,38792,4271,9.08,16684,15530,235800,62112
+20749,Fort Washington,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20750,Oxon Hill,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20752,Suitland,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20753,District Heights,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20757,Temple Hills,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20762,Andrews Air Force Base,Prince George's County,MD,2973,504,5.9,1385,983,NA,51631
+20768,Greenbelt,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20769,Glenn Dale,Prince George's County,MD,6604,860,7.68,2150,2077,400300,118990
+20770,Greenbelt,Prince George's County,MD,25173,3064,8.22,11407,10653,207700,59857
+20771,Greenbelt,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20772,Upper Marlboro,Prince George's County,MD,42625,596,71.56,16207,15364,294700,99183
+20773,Upper Marlboro,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20774,Upper Marlboro,Prince George's County,MD,43013,1238,34.73,17131,16354,291700,91855
+20775,Upper Marlboro,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20781,Hyattsville,Prince George's County,MD,11440,4694,2.44,4093,3805,245200,66210
+20782,Hyattsville,Prince George's County,MD,30560,7213,4.24,11552,10798,268300,59574
+20783,Hyattsville,Prince George's County,MD,44487,7903,5.63,13891,12861,229400,57787
+20784,Hyattsville,Prince George's County,MD,29449,6917,4.26,10155,9316,227700,56678
+20785,Hyattsville,Prince George's County,MD,35052,3554,9.86,14864,12741,224900,60324
+20787,Hyattsville,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20788,Hyattsville,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20790,Capitol Heights,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20791,Capitol Heights,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20792,Upper Marlboro,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20797,Southern Md Facility,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+20799,Capitol Heights,Prince George's County,MD,NA,NA,NA,NA,NA,NA,NA
+22301,Alexandria,Alexandria city,VA,11162,8015,1.39,5017,4845,658600,119443
+22302,Alexandria,Alexandria city,VA,16485,7336,2.25,8935,8142,388700,94446
+22304,Alexandria,Alexandria city,VA,44300,9561,4.63,22966,21899,340300,76061
+22305,Alexandria,Alexandria city,VA,15440,11434,1.35,6863,6384,519400,78220
+22311,Alexandria,Alexandria city,VA,17560,11423,1.54,8744,8241,440900,66319
+22313,Alexandria,Alexandria City,VA,NA,NA,NA,NA,NA,NA,NA
+22314,Alexandria,Alexandria city,VA,29653,7818,3.79,17584,16107,622600,117037
+22320,Alexandria,Alexandria City,VA,NA,NA,NA,NA,NA,NA,NA
+22321,Alexandria,Alexandria City,VA,NA,NA,NA,NA,NA,NA,NA
+22331,Alexandria,Alexandria City,VA,NA,NA,NA,NA,NA,NA,NA
+22332,Alexandria,Alexandria City,VA,NA,NA,NA,NA,NA,NA,NA
+22333,Alexandria,Alexandria City,VA,NA,NA,NA,NA,NA,NA,NA
+22334,Alexandria,Alexandria City,VA,NA,NA,NA,NA,NA,NA,NA
+22336,Alexandria,Alexandria City,VA,NA,NA,NA,NA,NA,NA,NA
+22201,Arlington,Arlington County,VA,33476,14311,2.34,18985,17863,601600,113683
+22202,Arlington,Arlington County,VA,22543,5824,3.87,15278,13111,585600,110092
+22203,Arlington,Arlington County,VA,21850,14241,1.53,12018,11266,517000,95410
+22204,Arlington,Arlington County,VA,47233,11489,4.11,21078,19775,416900,76052
+22205,Arlington,Arlington County,VA,17087,6314,2.71,6628,6412,687500,140819
+22206,Arlington,Arlington County,VA,19051,9303,2.05,10689,10024,406000,98985
+22207,Arlington,Arlington County,VA,30920,4794,6.45,11729,11303,811400,169636
+22209,Arlington,Arlington County,VA,12314,20528,0.6,7975,7316,557900,93906
+22210,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22211,Fort Myer,Arlington County,VA,648,370,1.75,61,55,NA,25000
+22212,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22213,Arlington,Arlington County,VA,2936,5153,0.57,1231,1183,590300,141458
+22214,Arlington,Arlington County,VA,0,NA,0,0,0,NA,NA
+22215,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22216,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22217,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22218,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22219,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22222,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22223,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22225,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22226,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22227,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22229,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22230,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22234,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22240,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22241,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22242,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22243,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22244,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22245,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+22246,Arlington,Arlington County,VA,NA,NA,NA,NA,NA,NA,NA
+20130,Paris,Clarke County,VA,281,34,8.3,161,123,330900,51458
+20135,Bluemont,Clarke County,VA,2834,64,44.56,1349,1157,363100,90083
+22611,Berryville,Clarke County,VA,8757,108,80.8,3676,3354,348100,76319
+22620,Boyce,Clarke County,VA,2348,51,45.74,1147,964,333100,87353
+22646,Millwood,Clarke County,VA,205,104,1.97,107,86,484500,64097
+20106,Amissville,Culpeper County,VA,5142,85,60.24,2040,1871,375800,80031
+22701,Culpeper,Culpeper County,VA,31444,192,163.41,12394,11369,222200,59808
+22713,Boston,Culpeper County,VA,1406,53,26.65,605,523,252500,59796
+22714,Brandy Station,Culpeper County,VA,1129,51,22.32,416,370,250000,70625
+22718,Elkwood,Culpeper County,VA,534,22,24.55,223,208,333800,68673
+22724,Jeffersonton,Culpeper County,VA,2282,108,21.1,825,778,346800,73229
+22726,Lignum,Culpeper County,VA,776,49,15.77,276,253,234600,40066
+22729,Mitchells,Culpeper County,VA,1338,242,5.53,58,49,NA,NA
+22733,Rapidan,Culpeper County,VA,1469,31,47.49,559,495,346400,59097
+22735,Reva,Culpeper County,VA,2277,69,33.19,905,818,309500,66000
+22736,Richardsville,Culpeper County,VA,732,25,28.83,269,247,262800,83056
+22737,Rixeyville,Culpeper County,VA,2936,73,40.29,1144,1051,244800,75585
+22741,Stevensburg,Culpeper County,VA,182,22,8.31,80,72,187500,56125
+20120,Centreville,Fairfax County,VA,40695,2370,17.17,14217,13851,412700,111272
+20121,Centreville,Fairfax County,VA,27988,3238,8.64,10357,9896,330700,92115
+20122,Centreville,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+20124,Clifton,Fairfax County,VA,14857,699,21.27,5052,4918,640000,167400
+20151,Chantilly,Fairfax County,VA,21374,1376,15.54,6828,6661,452400,122054
+20153,Chantilly,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+20170,Herndon,Fairfax County,VA,41236,4706,8.76,13713,13224,402000,104371
+20171,Herndon,Fairfax County,VA,45887,3791,12.1,16823,16256,545700,141433
+20172,Herndon,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+20190,Reston,Fairfax County,VA,17529,3887,4.51,9231,8644,408000,94806
+20191,Reston,Fairfax County,VA,29128,3542,8.22,12071,11631,431500,108013
+20192,Herndon,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+20193,Reston,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+20194,Reston,Fairfax County,VA,13165,4169,3.16,5900,5665,568500,131926
+20195,Reston,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+20196,Reston,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+20598,Dhs,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22003,Annandale,Fairfax County,VA,55990,4501,12.44,19923,19279,457600,93823
+22009,Burke,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22015,Burke,Fairfax County,VA,43102,5148,8.37,15133,14828,447400,120575
+22027,Dunn Loring,Fairfax County,VA,2362,3707,0.64,781,764,725800,187768
+22030,Fairfax,Fairfax County,VA,55066,2918,18.87,19487,18561,479700,102140
+22031,Fairfax,Fairfax County,VA,29795,4378,6.81,12048,11519,491800,106728
+22032,Fairfax,Fairfax County,VA,29377,3957,7.42,10009,9819,495300,128483
+22033,Fairfax,Fairfax County,VA,37691,4984,7.56,16083,15489,420400,103052
+22035,Fairfax,Fairfax County,VA,0,NA,0,0,0,NA,NA
+22039,Fairfax Station,Fairfax County,VA,18364,777,23.64,6104,6011,731800,196637
+22041,Falls Church,Fairfax County,VA,27989,10008,2.8,11174,10617,351500,73839
+22042,Falls Church,Fairfax County,VA,33537,5073,6.61,12495,12019,419600,94135
+22043,Falls Church,Fairfax County,VA,24302,5099,4.77,9767,9365,517000,103972
+22044,Falls Church,Fairfax County,VA,14092,6444,2.19,5909,5612,506100,72977
+22060,Fort Belvoir,Fairfax County,VA,8878,682,13.02,2928,2614,500900,78506
+22066,Great Falls,Fairfax County,VA,18099,671,26.98,6054,5830,990400,214219
+22067,Greenway,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22079,Lorton,Fairfax County,VA,32059,1096,29.24,11245,10839,405000,99025
+22081,Merrifield,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22082,Merrifield,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22092,Herndon,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22095,Herndon,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22096,Reston,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22101,Mc Lean,Fairfax County,VA,29887,2191,13.64,11345,10871,895600,180540
+22102,Mc Lean,Fairfax County,VA,21985,2097,10.48,10608,9738,759100,112427
+22103,West Mclean,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22106,Mc Lean,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22107,Mc Lean,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22108,Mc Lean,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22109,Mc Lean,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22116,Merrifield,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22118,Merrifield,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22119,Merrifield,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22120,Merrifield,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22121,Mount Vernon,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22122,Newington,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22124,Oakton,Fairfax County,VA,17558,1733,10.13,6834,6572,694800,156912
+22150,Springfield,Fairfax County,VA,27105,3608,7.51,9489,9092,374400,86486
+22151,Springfield,Fairfax County,VA,17456,3413,5.11,5932,5769,389100,99527
+22152,Springfield,Fairfax County,VA,28550,4806,5.94,10636,10396,413700,113351
+22153,Springfield,Fairfax County,VA,31285,3518,8.89,10676,10466,459900,135641
+22156,Springfield,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22158,Springfield,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22159,Springfield,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22160,Springfield,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22161,Springfield,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22180,Vienna,Fairfax County,VA,23491,4042,5.81,8812,8485,598100,127205
+22181,Vienna,Fairfax County,VA,14879,2614,5.69,5519,5361,632500,150929
+22182,Vienna,Fairfax County,VA,24863,2114,11.76,9143,8601,751500,160631
+22183,Vienna,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22184,Vienna,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22185,Vienna,Fairfax County,VA,0,NA,0,0,0,NA,NA
+22199,Lorton,Fairfax County,VA,NA,NA,NA,NA,NA,NA,NA
+22303,Alexandria,Fairfax County,VA,12601,8648,1.46,6858,6234,333500,83281
+22306,Alexandria,Fairfax County,VA,32326,4462,7.24,12312,11734,382800,61975
+22307,Alexandria,Fairfax County,VA,9581,3321,2.89,4655,4417,477700,103143
+22308,Alexandria,Fairfax County,VA,12737,2834,4.5,4741,4610,628800,163632
+22309,Alexandria,Fairfax County,VA,33220,4409,7.53,12264,11614,376900,81458
+22310,Alexandria,Fairfax County,VA,29609,4132,7.17,11818,11414,383800,108482
+22312,Alexandria,Fairfax County,VA,30614,5715,5.36,11919,11420,409700,76845
+22315,Alexandria,Fairfax County,VA,26202,4793,5.47,10988,10621,429700,128008
+22034,Fairfax,Fairfax City,VA,NA,NA,NA,NA,NA,NA,NA
+22036,Fairfax,Fairfax City,VA,NA,NA,NA,NA,NA,NA,NA
+22037,Fairfax,Fairfax City,VA,NA,NA,NA,NA,NA,NA,NA
+22038,Fairfax,Fairfax City,VA,NA,NA,NA,NA,NA,NA,NA
+22040,Falls Church,Falls Church City,VA,NA,NA,NA,NA,NA,NA,NA
+22046,Falls Church,Falls Church city,VA,16235,5738,2.83,6649,6313,621100,126711
+22047,Falls Church,Falls Church City,VA,NA,NA,NA,NA,NA,NA,NA
+20115,Marshall,Fauquier County,VA,5838,61,95.2,2522,2242,405700,70845
+20116,Marshall,Fauquier County,VA,NA,NA,NA,NA,NA,NA,NA
+20119,Catlett,Fauquier County,VA,3946,62,63.86,1515,1399,341500,111339
+20128,Orlean,Fauquier County,VA,NA,NA,NA,NA,NA,NA,NA
+20137,Broad Run,Fauquier County,VA,1510,88,17.21,580,546,371800,108333
+20138,Calverton,Fauquier County,VA,NA,NA,NA,NA,NA,NA,NA
+20139,Casanova,Fauquier County,VA,217,66,3.27,100,94,346700,144464
+20140,Rectortown,Fauquier County,VA,NA,NA,NA,NA,NA,NA,NA
+20144,Delaplane,Fauquier County,VA,1012,25,40.21,496,403,795100,115667
+20184,Upperville,Fauquier County,VA,839,21,39.62,471,356,772400,174526
+20185,Upperville,Fauquier County,VA,NA,NA,NA,NA,NA,NA,NA
+20186,Warrenton,Fauquier County,VA,14557,226,64.44,5977,5604,336700,78161
+20187,Warrenton,Fauquier County,VA,15252,315,48.49,5343,5129,389100,116206
+20188,Warrenton,Fauquier County,VA,NA,NA,NA,NA,NA,NA,NA
+20198,The Plains,Fauquier County,VA,2492,34,72.82,1229,1037,567300,61837
+22639,Hume,Fauquier County,VA,560,30,18.67,267,233,605300,103125
+22643,Markham,Fauquier County,VA,197,34,5.74,95,82,870200,79412
+22712,Bealeton,Fauquier County,VA,8415,232,36.22,3013,2819,233100,76013
+22720,Goldvein,Fauquier County,VA,1059,51,20.67,445,406,425700,74708
+22728,Midland,Fauquier County,VA,3310,73,45.24,1241,1169,352800,96667
+22734,Remington,Fauquier County,VA,3187,106,30.04,1172,1095,209600,67125
+22739,Somerville,Fauquier County,VA,NA,NA,NA,NA,NA,NA,NA
+22742,Sumerduck,Fauquier County,VA,1926,87,22.16,695,659,290100,78796
+22401,Fredericksburg,Fredericksburg city,VA,24286,2326,10.44,10467,9505,314300,47040
+22402,Fredericksburg,Fredericksburg City,VA,NA,NA,NA,NA,NA,NA,NA
+22403,Fredericksburg,Fredericksburg City,VA,NA,NA,NA,NA,NA,NA,NA
+22404,Fredericksburg,Fredericksburg City,VA,NA,NA,NA,NA,NA,NA,NA
+22412,Fredericksburg,Fredericksburg City,VA,NA,NA,NA,NA,NA,NA,NA
+20101,Dulles,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20102,Dulles,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20103,Dulles,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20104,Dulles,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20105,Aldie,Loudoun County,VA,11315,305,37.13,3855,3682,448000,127464
+20107,Arcola,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20117,Middleburg,Loudoun County,VA,2693,60,44.74,1469,1168,539500,103214
+20118,Middleburg,Loudoun County,VA,7,680,0.01,3,3,NA,NA
+20129,Paeonian Springs,Loudoun County,VA,618,192,3.21,216,193,813700,180481
+20131,Philomont,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20132,Purcellville,Loudoun County,VA,15900,192,82.91,5466,5154,470800,129180
+20134,Purcellville,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20141,Round Hill,Loudoun County,VA,6131,225,27.23,2116,1987,402400,124180
+20142,Round Hill,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20146,Ashburn,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20147,Ashburn,Loudoun County,VA,54086,2721,19.87,19719,19046,444000,122115
+20148,Ashburn,Loudoun County,VA,28310,1739,16.28,9170,8806,536000,161433
+20149,Ashburn,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20152,Chantilly,Loudoun County,VA,24946,1002,24.89,7876,7624,517000,144250
+20158,Hamilton,Loudoun County,VA,4288,295,14.55,1588,1520,490000,120991
+20159,Hamilton,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20160,Lincoln,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20163,Sterling,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20164,Sterling,Loudoun County,VA,37747,5094,7.41,12565,12036,299400,87288
+20165,Sterling,Loudoun County,VA,32383,3301,9.81,11774,11455,440900,129827
+20166,Sterling,Loudoun County,VA,9521,546,17.45,3464,3321,320100,106797
+20167,Sterling,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20175,Leesburg,Loudoun County,VA,27169,435,62.45,10083,9544,464800,112815
+20176,Leesburg,Loudoun County,VA,46506,816,56.98,16166,15425,448500,113668
+20177,Leesburg,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20178,Leesburg,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20180,Lovettsville,Loudoun County,VA,6549,153,42.74,2395,2239,450100,123594
+20189,Dulles,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20197,Waterford,Loudoun County,VA,1840,137,13.43,661,606,661900,136677
+20199,Dulles,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+22093,Ashburn,Loudoun County,VA,NA,NA,NA,NA,NA,NA,NA
+20108,Manassas,Manassas City,VA,NA,NA,NA,NA,NA,NA,NA
+20110,Manassas,Manassas city,VA,43876,3475,12.63,14714,14053,253500,75584
+20113,Manassas,Manassas City,VA,NA,NA,NA,NA,NA,NA,NA
+20109,Manassas,Prince William County,VA,37265,1819,20.49,13584,12852,230000,65017
+20111,Manassas,Prince William County,VA,30590,1879,16.28,10074,9490,280200,85829
+20112,Manassas,Prince William County,VA,25833,661,39.1,8448,8169,421200,139902
+20136,Bristow,Prince William County,VA,28498,1943,14.67,8483,8294,374300,128444
+20143,Catharpin,Prince William County,VA,1216,158,7.72,408,397,647900,139938
+20155,Gainesville,Prince William County,VA,29411,1018,28.9,10357,9943,396400,127974
+20156,Gainesville,Prince William County,VA,NA,NA,NA,NA,NA,NA,NA
+20168,Haymarket,Prince William County,VA,NA,NA,NA,NA,NA,NA,NA
+20169,Haymarket,Prince William County,VA,19801,614,32.23,6746,6502,467600,139508
+20181,Nokesville,Prince William County,VA,7877,133,59.18,2758,2635,396100,108438
+20182,Nokesville,Prince William County,VA,NA,NA,NA,NA,NA,NA,NA
+22025,Dumfries,Prince William County,VA,17379,2553,6.81,6235,6084,339600,115000
+22026,Dumfries,Prince William County,VA,14258,1768,8.06,4737,4396,246500,77264
+22125,Occoquan,Prince William County,VA,711,4700,0.15,400,368,321800,95446
+22134,Quantico,Prince William County,VA,6862,290,23.67,1379,1299,201900,58461
+22135,Quantico,Prince William County,VA,NA,NA,NA,NA,NA,NA,NA
+22172,Triangle,Prince William County,VA,8699,689,12.63,3361,3033,377700,62042
+22191,Woodbridge,Prince William County,VA,57598,3643,15.81,20329,18901,247200,79198
+22192,Woodbridge,Prince William County,VA,53394,2879,18.55,20113,19339,295500,98169
+22193,Woodbridge,Prince William County,VA,73047,4133,17.67,23150,22186,258000,90378
+22194,Woodbridge,Prince William County,VA,NA,NA,NA,NA,NA,NA,NA
+22195,Woodbridge,Prince William County,VA,NA,NA,NA,NA,NA,NA,NA
+22623,Chester Gap,Rappahannock County,VA,670,552,1.21,271,248,201900,57404
+22627,Flint Hill,Rappahannock County,VA,637,19,32.8,362,281,514200,74881
+22640,Huntly,Rappahannock County,VA,532,23,23.6,284,232,498000,57949
+22716,Castleton,Rappahannock County,VA,853,34,25,434,354,396300,55200
+22740,Sperryville,Rappahannock County,VA,1313,17,78.95,757,575,337000,39950
+22746,Viewtown,Rappahannock County,VA,NA,NA,NA,NA,NA,NA,NA
+22747,Washington,Rappahannock County,VA,1132,29,38.82,676,505,409100,50069
+22749,Woodville,Rappahannock County,VA,349,18,19.25,194,152,762500,67143
+22407,Fredericksburg,Spotsylvania County,VA,54962,969,56.7,19758,18770,246100,78164
+22408,Fredericksburg,Spotsylvania County,VA,26851,585,45.92,9728,9184,248800,84551
+22534,Partlow,Spotsylvania County,VA,2796,82,33.94,990,916,172600,58854
+22551,Spotsylvania,Spotsylvania County,VA,19242,111,173.82,7274,6666,229600,68313
+22553,Spotsylvania,Spotsylvania County,VA,13935,312,44.63,4975,4706,299000,92521
+22565,Thornburg,Spotsylvania County,VA,NA,NA,NA,NA,NA,NA,NA
+22405,Fredericksburg,Stafford County,VA,29152,554,52.6,10632,10083,264300,84528
+22406,Fredericksburg,Stafford County,VA,20757,286,72.62,7695,7267,317000,84980
+22430,Brooke,Stafford County,VA,NA,NA,NA,NA,NA,NA,NA
+22463,Garrisonville,Stafford County,VA,NA,NA,NA,NA,NA,NA,NA
+22471,Hartwood,Stafford County,VA,NA,NA,NA,NA,NA,NA,NA
+22545,Ruby,Stafford County,VA,NA,NA,NA,NA,NA,NA,NA
+22554,Stafford,Stafford County,VA,51463,775,66.36,17173,16325,323100,103818
+22555,Stafford,Stafford County,VA,NA,NA,NA,NA,NA,NA,NA
+22556,Stafford,Stafford County,VA,25675,812,31.63,8483,8100,293900,101463
+22610,Bentonville,Warren County,VA,1842,36,51.63,898,749,226300,52118
+22630,Front Royal,Warren County,VA,30292,232,130.56,12856,11317,219500,60977
+22642,Linden,Warren County,VA,4414,86,51.07,1894,1662,224000,76198
+25414,Charles Town,Jefferson County,WV,17024,312,54.62,7008,6433,235100,72833
+25423,Halltown,Jefferson County,WV,NA,NA,NA,NA,NA,NA,NA
+25425,Harpers Ferry,Jefferson County,WV,12835,319,40.24,5603,4892,215200,67365
+25430,Kearneysville,Jefferson County,WV,8112,169,47.86,3156,2929,200900,50619
+25432,Millville,Jefferson County,WV,121,147,0.82,54,45,29100,70417
+25438,Ranson,Jefferson County,WV,6266,705,8.88,2697,2411,158300,42737
+25441,Rippon,Jefferson County,WV,NA,NA,NA,NA,NA,NA,NA
+25442,Shenandoah Junction,Jefferson County,WV,1925,136,14.2,737,689,192300,73949
+25443,Shepherdstown,Jefferson County,WV,7445,271,27.48,2907,2640,289900,69125
+25446,Summit Point,Jefferson County,WV,1463,95,15.39,567,523,209300,54226
