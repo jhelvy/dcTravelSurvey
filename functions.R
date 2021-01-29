@@ -49,7 +49,7 @@ getModeCount <- function(df) {
 
 getTripCount <- function(df) {
     return(df %>%
-        count(trip) %>% 
+        count(trip) %>%
         arrange(desc(n)))
 }
 
@@ -59,7 +59,7 @@ getLegsDiff <- function(df) {
 }
 
 getLegsCount <- function(df) {
-    return(count(df, numLegs))    
+    return(count(df, numLegs))
 }
 
 getTripResults <- function(diffs) {
@@ -70,8 +70,8 @@ getTripResults <- function(diffs) {
     result <- as.data.frame(do.call(rbind, temp)) %>%
         mutate(
             index = row_number(),
-            score = mode + numLegs) %>% 
-        rowwise() %>% 
+            score = mode + numLegs) %>%
+        rowwise() %>%
         mutate(mean  = mean(c(mode, numLegs)))
     return(result)
 }
@@ -100,12 +100,12 @@ fixTimeCases <- function(df) {
     result <- df %>%
         mutate(
             # For 1 leg trips, leg2 times and transfer times are 0
-            # If leg 2 is Walk, then the transfer time is 0  
+            # If leg 2 is Walk, then the transfer time is 0
             leg2Time = ifelse(numLegs == 1, 0, leg2Time),
             transferTime = ifelse(
                 (numLegs == 1) | (leg2Mode == walk), 0, transferTime),
             # If first leg is walk, then no wait time at the start
-            startTime = ifelse(leg1Mode == walk, 0, startTime)) %>% 
+            startTime = ifelse(leg1Mode == walk, 0, startTime)) %>%
     # Remove duplicates that may now be remaining
     distinct()
     return(result)
@@ -122,7 +122,7 @@ carSpecificCleaning <- function(df) {
         carExpress = ifelse(carInTrip == 0, 0, carExpress),
         # If trip contains car, minimum price is $5
         price = ifelse(carInTrip & (price < 5), 5, price)
-    ) %>% 
+    ) %>%
     # Remove duplicates that may now be remaining
     distinct()
     return(result)
@@ -140,7 +140,7 @@ filterCases <- function(df) {
         # Max walking time in any leg is 30 minutes
         leg1Time = ifelse((leg1Mode == walk) & (leg1Time > 30), 30, leg1Time),
         leg2Time = ifelse((leg2Mode == walk) & (leg2Time > 30), 30, leg2Time)
-    ) %>% 
+    ) %>%
     # Remove duplicates that may now be remaining
     distinct()
     return(result)
@@ -287,8 +287,8 @@ getTripDf <- function(row) {
         changeCarLabels(row) %>%
         mutate(
             price     = row$price,
-            timeRange = row$tripTimeRange, 
-            express   = row$carExpress, 
+            timeRange = row$tripTimeRange,
+            express   = row$carExpress,
             fee       = row$expressFee)
     return(tripDf)
 }
@@ -389,7 +389,7 @@ changeCarLabels <- function(tripDf, row) {
     if (row$carExpress == 1) {
         tripDf[carRows,]$label <- str_replace(
             tripDf[carRows,]$label, 'Car', 'Car: Express'
-        )        
+        )
     }
     # Change "Transfer" to "Park" for car transfers
     tripDf[(carRows + 1),]$label <- str_replace(
@@ -450,7 +450,7 @@ makePlot <- function(trip, lang = 'en') {
                  label = labels$price) +
         annotate("text", x = -0.35, y = 0.15, hjust = 0,
                  family = labels$font,
-                 label = paste0(labels$priceVal, "\n", 
+                 label = paste0(labels$priceVal, "\n",
                                 labels$timeRange)) +
         theme_void()
     return(p)
@@ -484,7 +484,7 @@ getLabels <- function(trip, lang = 'en') {
             priceVal <- paste0(priceVal, " fee")
         }
     }
-    return(list(option = option, price = price, font = font, 
+    return(list(option = option, price = price, font = font,
                 priceVal = priceVal, timeRange = timeRange))
 }
 
@@ -495,13 +495,11 @@ translateTrip <- function(trip, lang = 'en') {
             label = str_replace(label, 'Start', 'Inicio'),
             label = str_replace(label, 'min wait', 'minutos\nde espera'),
             label = str_replace(label, 'mins', 'minutos'),
-            label = str_replace(label, 'Park', 'Aparcar'),
-            label = str_replace(label, 'Transfer', 'Traslado'),
+            label = str_replace(label, 'Transfer', 'Transbordo'),
             label = str_replace(label, 'Walk', 'Caminar'),
             label = str_replace(label, 'Car', 'Carro'),
-            label = str_replace(label, 'Express', 'vía express'),
+            label = str_replace(label, 'Express', '\nvía express'),
             label = str_replace(label, 'Bus', 'Autobús'),
-            label = str_replace(label, 'Autonomous\nTaxi', 'Taxi\nAutónomo'),
             label = str_replace(label, 'End', 'Fin')
         )
     } else if (lang == 'ko') {
@@ -509,14 +507,12 @@ translateTrip <- function(trip, lang = 'en') {
             label = str_replace(label, 'Start', '출발'),
             label = str_replace(label, 'min wait', '분 기다림'),
             label = str_replace(label, 'mins', '분'),
-            label = str_replace(label, 'Park', '주차'),
             label = str_replace(label, 'Transfer', '갈아탐'),
             label = str_replace(label, 'Walk', '도보'),
             label = str_replace(label, 'Car\\: Express', '승용차: 고속 차선'),
             label = str_replace(label, 'Car', '승용차'),
             label = str_replace(label, 'Bus', '버스'),
             label = str_replace(label, 'Uber/Taxi', '택시/우버'),
-            label = str_replace(label, 'Autonomous\nTaxi', '자율 주행 택시'),
             label = str_replace(label, 'End', '도착')
         )
     }

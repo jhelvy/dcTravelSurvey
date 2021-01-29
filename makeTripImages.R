@@ -26,14 +26,14 @@ for (lang in c('en', 'sp')) {
     if (!dir.exists(saveRootYes)) { dir.create(saveRootYes) }
     if (!dir.exists(saveRootNo)) { dir.create(saveRootNo) }
     for (i in seq(nrow(tripsYes))) {
-    # for (i in seq(10)) {
+    # for (i in seq(100)) {
         savePath <- paste0(saveRootYes, '/', i, '.png')
         tripDf <- getTripDf(filter(tripsYes, uniqueTripID == i))
         trip <- makePlot(tripDf, lang = lang)
         ggsave(savePath, trip, width = s$w, height = s$h, dpi = s$d)
     }
     for (i in seq(nrow(tripsNo))) {
-    # for (i in seq(10)) {
+    # for (i in seq(100)) {
         savePath <- paste0(saveRootNo, '/', i, '.png')
         tripDf <- getTripDf(filter(tripsNo, uniqueTripID == i))
         trip <- makePlot(tripDf, lang = lang)
